@@ -7,3 +7,5 @@
 For more details check [Link](https://en.cppreference.com/w/cpp/header/iostream)
 
 ## The iostream libary deines four IO objects:
+
+cin (pron)

@@ -1,3 +1,5 @@
+# Disclaimer : this notes where made using this video [link](https://youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) by Neso Academy. To learn C++.
+
 To check the version
 ```bash
 g++ --version
