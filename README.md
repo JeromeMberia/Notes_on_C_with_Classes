@@ -1,6 +1,8 @@
-<base target="_blank">
+# Learning C++
 
-# Disclaimer : this notes where made using this video [link](https://youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) by Neso Academy. To learn C++
+## Disclaimer
+
+this notes where made using this video [link](https://youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) by Neso Academy. To learn C++
 
 ## Installation
 
@@ -82,4 +84,7 @@ int main()
 
 ## Does C++ have a documentation
 
-Check <a href="https://stackoverflow.com/questions/34967756/where-is-the-official-c-documentation" target="_blank">link</a> this.
+Check [link](https://stackoverflow.com/questions/34967756/where-is-the-official-c-documentation) this.
+
+The Sad reality about the links open up a new tab 😞, the short answer no.
+[Link](https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank)
