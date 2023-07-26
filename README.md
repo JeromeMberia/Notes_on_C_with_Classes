@@ -80,4 +80,4 @@ int main()
 
 ## Does C++ have a documentation
 
-Check [link](https://stackoverflow.com/questions/34967756/where-is-the-official-c-documentation)
+Check <a href="https://stackoverflow.com/questions/34967756/where-is-the-official-c-documentation" target="_blank">link</a> this.
