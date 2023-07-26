@@ -28,7 +28,7 @@
 
 /class
 /.vscode
-
+/a.exe
 # Executables
 *.exe
 #*.out
