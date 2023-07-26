@@ -6,7 +6,7 @@ A while statement repeatedly executes a section of code so long as a given condi
 
 `Source` [link](https://www.youtube.com/watch?v=iF4i423144E&list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS&index=10)
 
-![while_flow_chart](../images/while_loop.png)
+![while_flow_chart](../../images/while_loop.png)
 
 ```c++
 #include <iostream>
